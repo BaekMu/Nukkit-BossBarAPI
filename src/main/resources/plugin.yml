@@ -1,0 +1,6 @@
+author: BaekMu
+website: https://github.com/BaekMu
+name: ${project.name}
+main: BaekMu.Nukkit.BossBarAPI.Main
+version: ${project.version}
+api: ["1.0.0"]
